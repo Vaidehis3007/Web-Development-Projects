@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+ header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #333;
+}
+ 
+ .flex{
+    display: flex;
+    align-items: center;
+}
+.container{
+    background-color: red;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.navbar {
+    justify-content: space-between;
+}
+
+.nav-links{
+    
+}
